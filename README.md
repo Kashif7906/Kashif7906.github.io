@@ -1,66 +1,84 @@
-<h1 align="center">Hi 👋, I'm Mohd Kashif Jamal</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://www.instagram.com/tushit_saxena/"> Tushit Saxena 💻</a>!
+</h2>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashif7906&label=Profile%20views&color=0e75b6&style=flat" alt="Kashif7906" /> </p>
+Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekskmr44" alt="Kashif7906" /></a> </p>
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
-<p align="left"> <a href="https://twitter.com/abhishekskmr44" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekskmr44?logo=twitter&style=for-the-badge" alt="abhishekskmr44" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
-- 🔭 I’m currently working on **GETHARVEST**
+   <p align="center" color:"red">
+     <a href="https://github.com/tushit99/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Tushit Saxena 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning **react js**
 
--<h1> 👨‍💻 All of my projects are available at https://abhishek--resume.vercel.app/</h1>
+- 🔭 I’m currently working on **Frontend & Backend**
 
-- 💬 Ask me about **react js**
+- 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **abhishekskmr44@gmail.com**
+- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📄 Know about my experiences- https://drive.google.com/file/d/1UM2WxR1GwQiBUmuzhh18N8ss4IEkIGYX/view
+- 📫 Reach me on **tushitsaxena4@gmail.com** 
 
-- ⚡ Fun fact **loves both oceans and mountains**
+- 💬 ask me about anything, i am happy to help 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhishekskmr44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekskmr44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishekskmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekskmr" height="30" width="40" /></a>
+- 😄 Pronouns: He/His
+
+- ⚡ Fun Fact: Imagination is more important than knowledge 
+
+- 💬 Have a look at my [Portfolio](https://tushitsaxena.netlify.app) 
+
+
+
+<h2>🥇 Skills:  </h2>  
+<p >
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+  
 </p>
+
+<br/>
+
+<div align="center">
+        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
  
-  # SPOTIFY.COM Clone
+</div>
 
-## Introduction to our project( https://spotify-clone-two-pink.vercel.app/):
+## 📊 My Github Stats 
+<!-- github status  -->
+
+<div align="center" style="display: flex; gap:50px">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tushit99&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushit99&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=tushit99&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
 
 
+<br> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-# GETHARVEST.COM Clone
-# smooth-dock-1057
-
-## Introduction to our project(https://getharvest-masai-clone.netlify.app/):
-
-# Harvest offers time tracking, invoicing, expense tracking, and time-based reporting. Users can send automated payment reminders from the software if clients haven't paid an invoice on time. This is a "less stressful option for managers who hate dunning their customers.
-
-
-# Tech Stacks Used:
-# ![image](https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/1_qgxaya.png)
-
-
-⚡<h1>Bluemercury.com clone</h1>
-<h1>​Live Link- <a href="https://bluemercury.netlify.app/">Bluemercury.com </a></h1>
-<h1>Bluemercury.com is a leading luxury beauty retailer offering the best cosmetics, skin care, makeup, perfume, hair, and bath and body.</h1>
-
-
-<h1>⚡Sephora.com clone</h1>
-<p>Sephora.com is a cosmetic website. My project is a clone of the original website. It has a signup page, a login page and a completely functional payment page. Technology used is HTML, CSS & Javascript.<p>
-<h2>deployed link- https://papaya-medovik-778f4e.netlify.app/</h1>
-
-https://glittering-cocada-d76c60.netlify.app/
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekskmr44&show_icons=true&locale=en&layout=compact" alt="abhishekskmr44" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekskmr44&show_icons=true&locale=en" alt="abhishekskmr44" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekskmr44&" alt="abhishekskmr44" /></p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tushit.saxena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tushit_saxena/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushit-saxena/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tushit84308444) 
