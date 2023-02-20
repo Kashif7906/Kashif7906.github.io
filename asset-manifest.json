@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1945f43c.css",
-    "main.js": "/static/js/main.e541bd92.js",
+    "main.js": "/static/js/main.4cf32a9e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/profilePic.jpg": "/static/media/profilePic.6bbeed84b7265e77583c.jpg",
     "static/media/anthropologie.png": "/static/media/anthropologie.54bd4d922b19bd1aeb86.png",
     "static/media/reliancedigital.png": "/static/media/reliancedigital.56708229b4a2b4603532.png",
+    "static/media/makemytrip.png": "/static/media/makemytrip.c9c2929852063f1eb73c.png",
     "static/media/mohd_kashif_jamal_Resume.pdf": "/static/media/mohd_kashif_jamal_Resume.618a62de81d84798dcca.pdf",
     "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
     "static/media/mongodb.png": "/static/media/mongodb.4f7af09e6354d51beec8.png",
@@ -19,11 +20,11 @@
     "static/media/mern.png": "/static/media/mern.b58d81727b47466a7cda.png",
     "index.html": "/index.html",
     "main.1945f43c.css.map": "/static/css/main.1945f43c.css.map",
-    "main.e541bd92.js.map": "/static/js/main.e541bd92.js.map",
+    "main.4cf32a9e.js.map": "/static/js/main.4cf32a9e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1945f43c.css",
-    "static/js/main.e541bd92.js"
+    "static/js/main.4cf32a9e.js"
   ]
 }
